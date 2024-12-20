@@ -1,5 +1,4 @@
 # WM811k-Silicon-Wafer-Map-Dataset-and-Defect-Detection-Using-CNNs-with-Grad-CAM
-# WM811k Silicon Wafer Map Dataset and Defect Detection Using CNNs with Grad-CAM
 
 This repository provides the **WM811k silicon wafer map dataset** subset, MATLAB implementation, and Jupyter Notebook(code in MATLAB software) for defect detection in semiconductor wafers using Convolutional Neural Networks (CNNs). The research is based on the paper:
 
