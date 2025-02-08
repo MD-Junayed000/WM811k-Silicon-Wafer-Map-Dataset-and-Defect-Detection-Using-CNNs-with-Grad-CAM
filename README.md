@@ -2,8 +2,9 @@
 
 This repository provides the **WM811k silicon wafer map dataset** subset, MATLAB implementation, and Jupyter Notebook(code in MATLAB software) for defect detection in semiconductor wafers using Convolutional Neural Networks (CNNs). The research is based on the paper:
 
-**[Enhancing Defect Recognition: Convolutional Neural Networks for Silicon Wafer Map Analysis]([https://doi.org/your-paper-link](https://doi.org/10.1109/ICAEEE62219.2024.10561853))**  
+**[Enhancing Defect Recognition: Convolutional Neural Networks for Silicon Wafer Map Analysis](https://ieeexplore.ieee.org/document/10561853)**  
 Published in the 2024 3rd International Conference on Advancement in Electrical and Electronic Engineering (ICAEEE).
+![image](https://github.com/user-attachments/assets/95844223-9801-4472-b921-efab63e1350f)
 
 ---
 
