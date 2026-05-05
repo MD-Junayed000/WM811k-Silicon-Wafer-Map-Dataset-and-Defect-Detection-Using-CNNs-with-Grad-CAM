@@ -77,7 +77,7 @@ Dataset/
 If you use this dataset or code, please cite:
 
 ```
-@inproceedings{your_paper_citation,
+@inproceedings{junayed2024enhancing,
   title={Enhancing Defect Recognition: Convolutional Neural Networks for Silicon Wafer Map Analysis},
   author={Muhammad Junayed, Tanzeem Tahmeed Reza, Md. Saiful Islam},
   booktitle={2024 3rd International Conference on Advancement in Electrical and Electronic Engineering (ICAEEE)},
