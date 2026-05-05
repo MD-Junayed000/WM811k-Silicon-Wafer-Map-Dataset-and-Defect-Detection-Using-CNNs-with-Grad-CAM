@@ -26,7 +26,7 @@ Published in the 2024 3rd International Conference on Advancement in Electrical 
 
 ### Extract the Dataset
 
-Extract `WM811k_Dataset.rar` to create a `Dataset/` folder. This folder should contain the class subfolders (for example `Dataset/Center`, `Dataset/Donut`, etc.). If you extract to a different location, set the MATLAB path to the folder that directly contains the class subfolders.
+Extract `WM811k_Dataset.rar` to create a `Dataset/` folder. This folder should contain the class subfolders (e.g., `Dataset/Center`, `Dataset/Donut`, etc.). If you extract to a different location, set the MATLAB path to the folder that directly contains the class subfolders.
 
 ### MATLAB Workflow (`grad.m`)
 
