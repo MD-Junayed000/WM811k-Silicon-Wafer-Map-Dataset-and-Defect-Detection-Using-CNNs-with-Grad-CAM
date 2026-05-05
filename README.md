@@ -41,7 +41,7 @@ Extract `WM811k_Dataset.rar`. The archive is expected to create a `Dataset/` fol
 
 ### Notebook Workflow (`defect-detection-using-cnns-and-gradcam-vis.ipynb`)
 
-The notebook contains MATLAB-style code cells. Run it using MATLAB (for example, import it into MATLAB Live Editor), or use a Jupyter setup that provides a MATLAB kernel/engine so the MATLAB cells execute correctly.
+The notebook uses the `.ipynb` format but the cells are MATLAB code (it was exported from MATLAB). It is not intended for a standard Python kernel. Run it in MATLAB (for example, import it into MATLAB Live Editor), or use a Jupyter setup that provides a MATLAB kernel/engine so the MATLAB cells execute correctly.
 
 ---
 
