@@ -26,7 +26,7 @@ Published in the 2024 3rd International Conference on Advancement in Electrical 
 
 ### Extract the Dataset
 
-Extract `WM811k_Dataset.rar`. The archive is expected to create a `Dataset/` folder that contains the class subfolders (for example `Dataset/Center`, `Dataset/Donut`, etc.). If you extract to a different location, ensure the path you set in MATLAB points to the folder that directly contains the class subfolders.
+Extract `WM811k_Dataset.rar` to create a `Dataset/` folder. This folder should contain the class subfolders (for example `Dataset/Center`, `Dataset/Donut`, etc.). If you extract to a different location, set the MATLAB path to the folder that directly contains the class subfolders.
 
 ### MATLAB Workflow (`grad.m`)
 
@@ -41,7 +41,10 @@ Extract `WM811k_Dataset.rar`. The archive is expected to create a `Dataset/` fol
 
 ### Notebook Workflow (`defect-detection-using-cnns-and-gradcam-vis.ipynb`)
 
-The notebook uses the `.ipynb` format but the cells are MATLAB code (it was exported from MATLAB). It is not intended for a standard Python kernel. Run it in MATLAB (for example, import it into MATLAB Live Editor), or use a Jupyter setup that provides a MATLAB kernel/engine so the MATLAB cells execute correctly.
+The notebook uses the `.ipynb` format but the cells are MATLAB code (exported from MATLAB). It is not intended for a standard Python kernel. Run it using one of the following:
+
+- Import it into MATLAB Live Editor.
+- Use a Jupyter setup that provides a MATLAB kernel/engine so the MATLAB cells execute correctly.
 
 ---
 
